@@ -260,8 +260,35 @@ img {
     display: block;
 }
 
+.desing-section-desing-section-revert {
+    margin-bottom: 100px;
+}
+
+.desing-section-desing-section-revert .container {
+    overflow: hidden;
+    margin-bottom: 100px;
+    padding-top: 100px;
+}
+
+.desing-section-desing-section-revert .img-holder {
+    float: right;
+    width: 45%;
+}
+
+.desing-section-desing-section-revert .text-col {
+    float: left;
+    width: 40%;
+    padding-right: 110px;
+    padding-top: 20px; 
+}
+
+.desing-section-desing-section-revert .text-col h2 {
+    margin-bottom: 20px;
+}
+
 .desing-section-desing-section-revert .img-holder {
     float: left;
+    width: 45%;
 }
 
 .desing-section-desing-section-revert .text-col {
@@ -270,5 +297,36 @@ img {
     padding-right: 0;
     padding-left: 90px;
     width: 45%;
+}
+
+.desing-section-foter {
+    margin-bottom: 100px;
+}
+
+.desing-section-foter .container {
+    overflow: hidden;
+    margin-bottom: 100px;
+    padding-top: 100px;
+}
+
+.desing-section-foter .img-holder {
+    float: right;
+    width: 45%;
+}
+
+.desing-section-foter .text-col {
+    float: left;
+    width: 40%;
+    padding-right: 110px;
+    padding-top: 20px; 
+}
+
+.desing-section-foter .text-col h2 {
+    margin-bottom: 20px;
+}
+
+.desing-section-foter .text-holder strong {
+    margin-bottom: 10px;
+    display: block;
 }
 
